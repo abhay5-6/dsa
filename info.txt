@@ -1,0 +1,19 @@
+i start by revising sorting an implementing selection bubble and insertion sorting,
+a)due to being rusty i used python and still took good 5 minutes for selection sort.
+b)tried to solve bubble with cpp made a few syntax error about 7 minutes.
+c)was close but got a critical bug of not storing key out of loop.
+
+i will avoid too much sorting or implementation in a day and leave the rest 4 for tomorrow
+
+ ( merge quick recursive bubble and insertion )
+
+as i have solved complete array before and plenty practice in leetcode and codeforces i will leave its hard part after a week of revision
+
+i will do all of easy part of binary search today it is redundant but i think worth it;
+
+2a)search x in a sorted array:i will solve on leetocde and paste here{lc:740}
+
+2b)lower bound of x : modification of binary search that find lowest index of same number and solve a similar on leetcode {lc:35}
+little struggle in 15 mins ,lc done in 5 minutes mid+1 vs left struggle.
+
+2c)upper bound of x

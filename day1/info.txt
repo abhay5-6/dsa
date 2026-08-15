@@ -18,4 +18,4 @@ little struggle in 15 mins ,lc done in 5 minutes mid+1 vs left struggle.
 
 2c)upper bound of x
 
-2d)floor and ceil in sorted arrays
+2d)floor and ceil in sorted arrays: not much different

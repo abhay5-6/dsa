@@ -1,0 +1,5 @@
+today i am going to move forward to binary tress because i have good practice of strings previously nd i have quick revision and i have good practice of inbtw topics so i will tackle newwer topics first
+
+i am quickly going to revise trees and traversals 
+
+1a)Pre, Post, Inorder in one traversal:easier than it looks key is to mae recursion tree on copy so u can remeber what is requiured 

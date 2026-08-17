@@ -2,3 +2,4 @@ today i am going to revise string from a2z sheet mainly for revision and if feel
 
 1a)remove outermost parenthesis{lc:1021}
 i struggled because not reading question properly can hurt me later
+1b)reverse words in a string too easy lc{151}
